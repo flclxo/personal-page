@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background: url(https://www.7tint.com/wp-content/uploads/2020/06/iUvxApw.jpg) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 200px;
+    background: rgba(197, 87, 87, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: black;
+    font-family: ' Arial',sans-serif;
+  }
+  .box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-content: center;
+  }
+  .box h1{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 100;
+  }
+  
+  .box p{
+    text-align: auto;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  .box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+  .box li a{
+    color: rgb(89, 135, 151);
+    text-decoration: none;
+    font-size: 35px;
+    transition: all ease-in-out 250ms;
+  }
+  .box li a:hover{
+    color: #000000;
+  }
